@@ -1,0 +1,163 @@
+#header{
+    background-color: #4aa96c;
+    text-align: center;
+    height:20%;
+    background-image: url(img/vector-background-scene-with-green-field.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+   
+   
+}
+p{
+    line-height:2;
+    font-size:1.5rem;
+    font-family: 'PT Sans', sans-serif;
+    color:#4a503d;
+}
+hr{
+    width:40% ;
+    margin:40px auto;
+    border:5px  dotted rgb(124, 170, 78);
+    border-bottom: 0;
+}
+a{
+    text-decoration:none;
+    color: rgb(138, 42, 8);
+    font-family: 'PT Sans', sans-serif;
+}
+
+.header{
+    padding-top:10%;
+    padding-bottom:0;
+    margin:0;
+    
+}
+header h1{
+    color:#226d13;
+    font-family: 'Architects Daughter', cursive;
+    font-size:4rem;
+    margin-bottom:0;
+    margin-top: 0;
+}
+.header p{
+    padding-top:0;
+    color:#226d13;
+    font-family: 'Itim', cursive;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+#skill img{
+    width:200px;
+     
+}
+#about{
+    text-align: center;
+   
+    margin:0;
+}
+#about h1{
+    font-size: 5rem;
+    font-family: 'Itim', cursive;
+    color:#3691e6;
+}
+.about{
+    width:50%;
+    margin:auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+}
+.about h3{
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    color:#3691e6;
+}
+   
+
+#skill{
+    width:50%;
+    text-align: center;
+    margin:20px auto;
+    text-align: left;
+}
+#skill h1{
+    text-align: center;
+    margin:70px auto;
+    font-size: 4rem;
+    font-family: 'Lato', sans-serif;
+    color:#3691e6;
+}
+.skill_1,.skill_2,.skill_3{
+    margin:70px auto;
+
+
+
+}
+#skill h3{
+    font-size:2rem;
+    font-family: 'Lato', sans-serif;
+    color:#3691e6;
+   
+}
+.skill_2 h3{
+    text-align: right;
+}
+.games,.food{
+    float:left;
+    margin-right:60px;
+    
+}
+.computer{
+    float:right;
+    margin-left:60px;
+    
+}
+#footer{
+    text-align: center;
+    margin: auto;
+    background-color: #83c7f7;
+    color: rgb(216, 38, 38);
+    padding:40px;
+}
+#footer a{
+    font-size:2rem ;
+    padding:40px 25px 10px 25px;
+    color:rgb(22, 7, 156);
+}
+#footer .google{
+    color:rgb(153, 19, 19);
+}
+.copyright p{
+    font-size:.7rem;
+    margin:20px auto 3px;
+    padding:2px 0px 10px 0px ;
+}
+#contact{
+    width:50%;
+    text-align: center;
+    margin:20px auto;  
+}
+.contact h1{
+    margin:70px auto;
+    font-size: 4rem;
+    font-family: 'Lato', sans-serif;
+    color:#3691e6;
+}
+.button{
+    width:120px;
+    height:50px;
+    font-size:.8rem;
+    background-color:  rgb(34, 55, 177);
+    color:rgb(134, 224, 252)
+}
+button:hover{
+    color: gainsboro;
+    background-color: indianred;
+
+}
+#footer a:hover{
+    color: rgb(118, 117, 218);
+}
+body{
+    min-width: 600px;
+}
